@@ -1,0 +1,27 @@
+body{
+	background: linear-gradient(to bottom, #FFD1DC,#77DD77,#FFFACD,#CBAACB);
+}
+p{
+	margin: left;
+	color: blue;
+}
+h1{
+	color: red;
+}
+ol li{
+	margin: left;
+	color: red
+}
+ul li{
+	color: black;
+}
+img{
+	border: 150px;
+	color: red;
+}
+.texto{
+	border: 2px dashed red;
+}
+#contenedor{
+	border: 100px dashed darkred;
+}
